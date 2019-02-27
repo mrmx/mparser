@@ -1,9 +1,8 @@
 About MParser
 ----
+MParser is a XML parser targetted to be very lightweight (<7Kb) and with constant/very low memory greedy, thus is focused to be used within constrained environments such as J2ME/CLDC v1.0
 
-MParser is a XML parser targetted to be lightweight and with constant/very low memory greedy, thus is focused
-to be used within constrained environments such as J2ME/CLDC v1.0.
-
+Moved from old times CVS repo at https://sourceforge.net/projects/mparser :-)
 
 License
 ----
@@ -27,7 +26,7 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA 
 
 
-.CopyRight:
------------
+CopyRight:
+----
 
 MParser name and contents (c) 2003-2004 by Manuel Polo [@mrmx](https://twitter.com/mrmx)
